@@ -43,4 +43,6 @@ d = "Hi, {0}, your age is: {1}".format(name.upper(), age + 10)
 
 d = "Hello " + name + ", your age is: " + str(age)
 
-print(d)
+stringExample = f"This is {age}"
+
+print(stringExample)
