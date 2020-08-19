@@ -1,4 +1,4 @@
-def recur_sum (x, y):
+def recur_sum(x, y):
     if (y == 1):
         return x
     else:
